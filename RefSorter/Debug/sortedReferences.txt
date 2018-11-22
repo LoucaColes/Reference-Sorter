@@ -1,0 +1,56 @@
+Andersson, V., Classon, J. (2016) Procedural Generation of Levels with Controllable Difficulty for a Platformer Game Using a Genetic Algorithm [online]. MSc, Linköping University. Available from: https://pdfs.semanticscholar.org/94df/fa7450335f8d153be6d6645a195ac446145c.pdf [Accessed 24 July 2018]
+
+Booth, M. (2009) The AI Systems of Left 4 Dead [presentation]. 22 December. Available from: https://steamcdn-a.akamaihd.net/apps/valve/2009/ai_systems_of_l4d_mike_booth.pdf [Accessed 06 September 2018]
+
+Bourg, D., Seemann, G. (2004) AI For Game Developers. 1st ed. California: O’Reilly Media.
+
+Bullet Kin (2018) Enter The Gungeon Wiki [online]. 1 October. Available from: https://enterthegungeon.gamepedia.com/Bullet_Kin [Accessed 15 August 2018]
+
+Cadwell, T. (2017) Level Up Your Game: The Untapped Potential of Roguelikes. YouTube [video]. 11 January. Available from: https://www.youtube.com/watch?v=IE19Te46kYc [Accessed 01 June 2018]
+
+Cellar Door Games (2013) Rogue Legacy (1.2.0b) [Video Game] Available from: https://store.steampowered.com/app/241600/Rogue_Legacy/ [Accessed 01 June 2018]
+
+Chandra, V. (2015) Comparison Between Various Software Development Methodologies. International Journal of Computer Applications [online]. 131 (9). Available from: https://www.ijcaonline.org/research/volume131/number9/chandra-2015-ijca-907294.pdf [Accessed 13 September 2018]
+
+Csikszentmihalyi, M. (1990) Flow the psychology of optimal experience. 1st ed. New York: Harper Collins Publisher.
+
+Dale, L. (2017) I Find Cupheads Difficulty Infuriating Not Fun. Kotaku [blog]. 02 October. Available from: http://www.kotaku.co.uk/2017/10/02/i-find-cupheads-difficulty-infuriating-not-fun [Accessed 11 September 2018]
+
+Flick, U. (2011) Introducing Research Methodology. 2nd ed. London: Sage.
+
+Frank, A. (2018) Celeste is hard, but its creators are smart about difficulty. Polygon [blog]. 26 January. Available from: https://www.polygon.com/2018/1/26/16935964/celeste-difficulty-assist-mode [Accessed 15 August 2018]
+
+Koizumi, Y., Motokura, K. (2017) 10 Things Nintendo Told Us About Super Mario Odyssey. Interview by Matt Peckham. Time, 13 June [online]. Available from: http://time.com/4816417/super-mario-odyssey-interview-e3/ [Accessed 11 September 2018]
+
+Lee, K., Lee, T. (2018) Rogue Legacy Design Post Mortem: Budget Development. YouTube [video]. 25 January. Available from: https://www.youtube.com/watch?v=apfNODay1_s [Accessed 01 June 2018]
+
+Linden, R., Lopes, R. and Bidarra, R. (2013) Procedural Generation of Dungeons. IEEE [online]. 6 (1), pp. 78-89. Available from: https://ieeexplore-ieee-org.ezproxy.uwe.ac.uk/document/6661386/ [Accessed 01 June 2018]
+
+Mark, D. (2009) Behavioural Mathematics for Game AI. 1st ed. Boston: Cengage Learning PTR.
+
+Matt Makes Games Inc (2018) Celeste (1.2.4.1) [Video Game] Available from: https://store.steampowered.com/app/504230/Celeste/ [Accessed 25 August 2018]
+
+McMillen, E. (2011) The Binding of Isaac Gameplay explained. Edmund’s dev blog for gay nerds [blog]. 11 September. Available from: http://edmundmcmillen.blogspot.com/2011/09/binding-of-isaac-gameplay-explained.html [Accessed 01 June 2018]
+
+Melo, A. (2016) Firebase vs Parse Server. Back4App Blog [blog]. 18 June. Available from: https://blog.back4app.com/2016/06/15/firebase-parse/ [Accessed 25 July 2018]
+
+Mossmouth, LLC (2008) Spelunky (1.1) [Video Game]. Available from: https://store.steampowered.com/app/239350/Spelunky/ [Accessed 01 June 2018]
+
+Nicalis, Inc (2014) The Binding of Isaac Afterbirth+ (1.06J168) [Video Game] Available from: https://store.steampowered.com/app/401920/The_Binding_of_Isaac_Afterbirth/ [Accessed 01 June 2018]
+
+Reeve, J. (2018) Narrativising Night In The Woods.  Gamasutra [blog]. 10 February. Available from: https://www.gamasutra.com/blogs/JustinReeve/20180727/322644/Narrativizing_Night_in_the_Woods.php [Accessed 11 September 2018]
+
+Ripamonti, L., Mannala, M., Gadia, D.and Maggiorini, D. (2017) Procedural Content Generation For Platformers: Designing And Testing Fun Pledge. Multimedia Tools and Applications [online]. 76 (4), pp 5001-5050. Available from: https://link-springer-com.ezproxy.uwe.ac.uk/content/pdf/10.1007%2Fs11042-016-3636-3.pdf [Accessed 15 June 2018]
+
+Rumsey, D. (2003) Statistics For Dummies. 1st ed. Hoboken: Wiley Publishing.
+
+Shaker, N., Togelius, J., Nelson, M. Procedural Content Generation in Games. Berlin: Springer. Springer Link [online] Available from: https://link-springer-com.ezproxy.uwe.ac.uk/book/10.1007%2F978-3-319-42716-4 [Accessed 1 June 2018]
+
+Solarski, C. (2012) Drawing basics and video game art: classic to cutting-edge art techniques for winning video game design. 1st ed. New York: Watson-Guptill.
+
+Statistics For Dummies - Deborah Rumsey, PhD
+
+Thompson, T. ()  In The Directors Chair: Left 4 Dead. AI & Games [blog]. 1 December. Available from: https://aiandgames.com/in-the-directors-chair-left-4-dead/ [Accessed 06 September 2018]
+
+Yu, D. (2016) Spelunky. 1st ed California: Scb Distributed Publishers
+
